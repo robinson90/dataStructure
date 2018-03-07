@@ -1,0 +1,27 @@
+{
+  "name": "datastructure",
+  "version": "1.0.0",
+  "description": "all kinds of dataStructures' basic operation in javascript ",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinson90/dataStructure.git"
+  },
+  "keywords": [
+    "javascript",
+    "dataStructure"
+  ],
+  "author": "RobinZhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robinson90/dataStructure/issues"
+  },
+  "homepage": "https://github.com/robinson90/dataStructure#readme"
+}
